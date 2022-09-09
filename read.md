@@ -20,3 +20,7 @@
 
 
 # git restore --staged [index.html/anyfile_name] (undo staged files)
+
+#  git branch -D [branchName] (deletes branch permanently)
+
+#   git merge [branchName] (merges named branch into branch you are on)
